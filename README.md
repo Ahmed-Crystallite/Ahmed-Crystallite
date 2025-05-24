@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **Frontend, UI UX, Performance, Optimizations, and APIs**
 
-- 📫 Reach me at **mailto:ahmedrza14@gmail.com**
+- 📫 Reach me at [**Gmail**](mailto:ahmedrza14@gmail.com)
 
 - 📄 Learn more about my experience: [My Resume](https://dev-ar-portfolio.vercel.app/ahmedraza.pdf)
 
